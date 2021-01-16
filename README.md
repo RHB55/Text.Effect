@@ -1,6 +1,6 @@
 # Writing text effect
 
-A web page with writing text effect using Sublime text editor.|enjoy
+A web page with writing text effect using Sublime text editor |Enjoy
 
 ### Languages used:
 
